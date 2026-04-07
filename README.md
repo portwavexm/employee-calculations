@@ -1,2 +1,2 @@
 # employee-calculations
-xx
+Запускать main.py
